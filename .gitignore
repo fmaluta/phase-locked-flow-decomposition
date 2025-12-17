@@ -1,0 +1,8 @@
+# Local datasets / large artifacts
+data/*.mat
+Figures/
+*.fig
+
+# MATLAB autosave / backups
+*.asv
+*.m~
