@@ -63,7 +63,7 @@ The demonstration dataset used by `run_demo.m` is **not stored in this GitHub re
 It is archived separately on Zenodo:
 
 **Demo dataset DOI:**  
-*(insert Zenodo dataset DOI here once published)*
+*https://doi.org/10.5281/zenodo.17962594*
 
 After downloading the dataset, place the file in the local `data/` folder so that the directory structure is:
 
